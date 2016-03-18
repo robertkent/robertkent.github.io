@@ -2,7 +2,7 @@
 layout: post
 title:  "Setting up this website - using Jekyll, Cloudflare & Github"
 date:   2016-03-16 19:15:09 +0000
-categories: new website
+categories: tutorial
 ---
 Did you know you can set up a super-fast website for pretty much zero-money? It's really easy too!
 
