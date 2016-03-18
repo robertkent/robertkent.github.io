@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I’m a Web Developer with over 7 years experience in the industry. Mainly PHP-based projects I’ve worked on numerous WordPress, Magento and bespoke websites. I currently work at Creare Communications Ltd – one of the largest Web Design & SEO agencies in the country.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+I am Magento Certified as well as a published author of two Magento Books.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+[Magento Search Engine Optimisation](http://www.amazon.co.uk/Magento-Search-Engine-Optimization-Robert/dp/1783288574/ref=sr_1_7?ie=UTF8&qid=1458307252&sr=8-7&keywords=magento) and [Magento Shipping How-To](http://www.amazon.co.uk/Instant-Magento-Shipping-How--Robert/dp/1782165401/ref=sr_1_1?ie=UTF8&qid=1458307272&sr=8-1&keywords=magento+shipping)
