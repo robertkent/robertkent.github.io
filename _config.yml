@@ -17,3 +17,6 @@ github_username:  robertkent
 
 # Build settings
 markdown: kramdown
+
+# Outputting
+permalink: none
