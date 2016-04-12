@@ -1,16 +1,17 @@
 ---
 layout: post
 title:  "Cloudflare and Google AMP"
-date:   2016-04-12 14:20:00 +0000
 categories: tutorial
 ---
 
 ## A little about Google AMP
-[Google AMP](https://www.ampproject.org/) (Accelerated Mobile Pages) is a new service from Google that has been designed to drastically speed up mobile content. By caching your content, Google can serve your page exactly as it appears but without having to fetch any data from your own server.
+[Google AMP](https://www.ampproject.org/) (Accelerated Mobile Pages) is a new service from Google that has been designed to drastically speed up mobile content.
+
+By caching your content, Google can serve your page exactly as it appears but without having to fetch any data from your own server.
 
 You may already have seen (on your mobile device) some pages being shown in the Google SERPs with AMP written underneath. You'll notice that when you click on these items that the content is served by Google itself.
 
-<amp-img width="335" height="400" layout="responsive" src="/assets/images/posts/cloudflare-and-google-amp/serps.jpg"></amp-img>
+<amp-img width="743" height="891" layout="responsive" src="/assets/images/posts/cloudflare-and-google-amp/serps.jpg"></amp-img>
 
 I have replaced the theme of this website to use Amplify (link in the footer) which has a built-in template for serving an AMP version of this blog.
 
