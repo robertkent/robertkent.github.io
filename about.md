@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-<amp-img width="600" height="300" layout="responsive" src="http://lorempixel.com/600/300/sports"></amp-img>
+<amp-img width="600" height="300" layout="responsive" src="/assets/images/about.jpg"></amp-img>
+
 I’m a Web Developer with over 7 years experience in the industry. Mainly PHP-based projects I’ve worked on numerous WordPress, Magento and bespoke websites. I currently work at Creare Communications Ltd – one of the largest Web Design & SEO agencies in the country.
 
 I am Magento Certified as well as a published author of two Magento Books.
