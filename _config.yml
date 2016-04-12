@@ -22,6 +22,8 @@ author_image: "/assets/images/author.jpg"
 twitter_username: kent_robert
 github_username:  robertkent
 
+permalink: none
+
 # Build settings
 markdown: kramdown
 
